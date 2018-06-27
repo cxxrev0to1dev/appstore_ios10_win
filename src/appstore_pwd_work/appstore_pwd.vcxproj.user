@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='WinXP_DEBUG|Win32'">
+    <LocalDebuggerCommandArguments>F:\saas_vps_reset_unlock\20160719\appleid.unlock Ww110011</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerWorkingDirectory>C:\Program Files\Common Files\Apple\Apple Application Support\</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerWorkingDirectory>C:\Program Files\Common Files\Apple\Apple Application Support\</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>F:\saas_vps_reset_unlock\20160719\appleid.unlock Ww110011</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+</Project>

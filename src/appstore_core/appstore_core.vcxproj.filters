@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{ef85d40a-49fa-47cd-a2ed-4b6c4597e407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\win_itunes">
+      <UniqueIdentifier>{6bf8da77-4762-4e44-a893-5883a877e3d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\third_party">
+      <UniqueIdentifier>{35a56044-13c9-4cdc-8de8-47e4adf34b22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\third_party\glog">
+      <UniqueIdentifier>{c3012b0f-1320-41de-9201-752008f0aedb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\third_party\openssl">
+      <UniqueIdentifier>{912d782e-7aca-46a2-ac55-c7d3d7f1fdec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\third_party\cookies">
+      <UniqueIdentifier>{2983fa25-51df-4c04-af55-14e69c3b032a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\third_party\jsoncpp">
+      <UniqueIdentifier>{886286f0-6067-4a55-91eb-acb46c3f213e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\appstore_aso">
+      <UniqueIdentifier>{cb38032d-3f86-4619-b443-b650014d49f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="appstore_http_protocol.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_core_main.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="dllexport.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="basictypes.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_internal_interface.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_module.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_module_state.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_native_interface.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_https.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_https_configure.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_cookie_interface.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\basictypes.h">
+      <Filter>src\third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\logging.h">
+      <Filter>src\third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\scoped_ptr.h">
+      <Filter>src\third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\aes.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\asn1.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\asn1_mac.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\asn1t.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\bio.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\blowfish.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\bn.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\buffer.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\camellia.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\cast.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\cmac.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\cms.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\comp.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\conf.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\conf_api.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\crypto.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\des.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\des_old.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\dh.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\dsa.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\dso.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\dtls1.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\e_os2.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ebcdic.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ec.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ecdh.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ecdsa.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\engine.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\err.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\evp.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\hmac.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\idea.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\krb5_asn.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\kssl.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\lhash.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\md4.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\md5.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\mdc2.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\modes.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\obj_mac.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\objects.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ocsp.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\opensslconf.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\opensslv.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ossl_typ.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\pem.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\pem2.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\pkcs7.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\pkcs12.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\pqueue.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\rand.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\rc2.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\rc4.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ripemd.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\rsa.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\safestack.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\seed.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\sha.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\srp.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\srtp.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ssl.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ssl2.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ssl3.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ssl23.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\stack.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\symhacks.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\tls1.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ts.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\txt_db.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ui.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\ui_compat.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\whrlpool.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\x509.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\x509_vfy.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\openssl\x509v3.h">
+      <Filter>src\third_party\openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\cookies\cookie_constants.h">
+      <Filter>src\third_party\cookies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\cookies\cookie_options.h">
+      <Filter>src\third_party\cookies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\cookies\parsed_cookie.h">
+      <Filter>src\third_party\cookies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_client_interface.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_download_info.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\strings.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\windows_hardware.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\windows_version.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_structs.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_core_multi.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\base64.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\itunes_support_os.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\xp_ci.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\xp_its_main.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\ak_authentication.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\purchase_protocol.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\authenticate_protocol.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\authenticate_response.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\anonymous_finish_provisioning.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\provide_payment.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\provide_payment_name.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\provide_payment_address.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\appstore_aso\policy_search_aso.h">
+      <Filter>src\appstore_aso</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\family_info.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\parsed_authenticate_cookie.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\in_app_check_recurring_download_queue.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\app_page_detail.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\win_itunes\user_agent_make.h">
+      <Filter>src\win_itunes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="appstore_http_protocol.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="appstore_core_main.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\itunes_module.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\itunes_module_state.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\itunes_native_interface.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\itunes_https.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\itunes_https_configure.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\itunes_cookie_interface.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\glog\logging.cc">
+      <Filter>src\third_party\glog</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\cookies\cookie_constants.cc">
+      <Filter>src\third_party\cookies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\cookies\parsed_cookie.cc">
+      <Filter>src\third_party\cookies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\itunes_client_interface.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\itunes_download_info.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\strings.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\windows_hardware.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\windows_version.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_reader.cpp">
+      <Filter>src\third_party\jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_value.cpp">
+      <Filter>src\third_party\jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_writer.cpp">
+      <Filter>src\third_party\jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="appstore_core_multi.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\base64.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\xp_ci.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\xp_its_main.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\ak_authentication.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\purchase_protocol.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\authenticate_protocol.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\authenticate_response.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\anonymous_finish_provisioning.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\provide_payment.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\provide_payment_name.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\provide_payment_address.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\appstore_aso\policy_search_aso.cc">
+      <Filter>src\appstore_aso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\family_info.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\in_app_check_recurring_download_queue.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\app_page_detail.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\win_itunes\user_agent_make.cc">
+      <Filter>src\win_itunes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

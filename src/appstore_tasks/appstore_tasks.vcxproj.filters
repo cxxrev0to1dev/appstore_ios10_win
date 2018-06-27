@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{7efc256d-b860-4d9d-a4e0-050c973a8214}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="appstore_task_xml_writer.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="appstore_task_xml_reader.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="appstore_task_xml_writer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_task_xml_reader.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_task_xml_struct.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

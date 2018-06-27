@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{0a5a48c4-3c25-43e4-8681-a002314a9c4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party">
+      <UniqueIdentifier>{d22a1895-4c11-43e5-9f90-95b709def808}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\glog">
+      <UniqueIdentifier>{9023322c-344b-4812-9af4-c4322cfc51a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\jsoncpp">
+      <UniqueIdentifier>{5eed6805-d077-469d-9603-7154cf4a2a71}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\basictypes.h">
+      <Filter>third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\logging.h">
+      <Filter>third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\scoped_ptr.h">
+      <Filter>third_party\glog</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\glog\logging.cc">
+      <Filter>third_party\glog</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_reader.cpp">
+      <Filter>third_party\jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_value.cpp">
+      <Filter>third_party\jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_writer.cpp">
+      <Filter>third_party\jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="appstore_killer_work.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

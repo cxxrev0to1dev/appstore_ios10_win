@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{1e8ec46e-6024-4692-a4fa-34ce6ec978fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party">
+      <UniqueIdentifier>{25043dc0-7456-4d8e-a2bf-34bb0b3eec1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\glog">
+      <UniqueIdentifier>{251ba857-df9e-4cd7-8cdb-dd89cc3ea932}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="appstore.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="account_management.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ip_management.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\glog\logging.cc">
+      <Filter>third_party\glog</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="account_management.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ip_management.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\basictypes.h">
+      <Filter>third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\logging.h">
+      <Filter>third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\scoped_ptr.h">
+      <Filter>third_party\glog</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

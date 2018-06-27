@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{f65b2096-3866-45e8-9577-dfc3e282d898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\appstore">
+      <UniqueIdentifier>{5959da8c-9066-43e2-887a-9bb76d04d112}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\appstore\ip_management.h">
+      <Filter>src\appstore</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="appstore_adsl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\appstore\ip_management.cc">
+      <Filter>src\appstore</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

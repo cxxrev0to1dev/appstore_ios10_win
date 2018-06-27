@@ -1,0 +1,10 @@
+#ifndef APPSTORE_CORE_DLLEXPORT_H_
+#define APPSTORE_CORE_DLLEXPORT_H_
+//////////////////////////////////////////////////////////////////////////
+#ifdef APPSTORE_CORE_EXPORTS
+#define APPSTORE_CORE_API __declspec(dllexport)
+#else
+#define APPSTORE_CORE_API __declspec(dllimport)
+#endif
+//////////////////////////////////////////////////////////////////////////
+#endif

@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{C565EE39-10F3-461B-85EF-096AFA8EA0E3}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>appstore_core</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros">
+    <NuGetPackageImportStamp>2373919e</NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)\obj\$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <LibraryPath>$(SolutionDir)\lib\;$(SolutionDir)\src\third_party\WebKitSupportLibrary\win\lib32\;$(SolutionDir)\src\third_party\zlib\lib\;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)\obj\$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <LibraryPath>$(SolutionDir)\lib\;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)\obj\$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <LibraryPath>$(SolutionDir)\lib\;$(SolutionDir)\src\third_party\WebKitSupportLibrary\win\lib32\;$(SolutionDir)\src\third_party\zlib\lib\;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)\obj\$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <LibraryPath>$(SolutionDir)\lib\;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;APPSTORE_CORE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SolutionDir)\src\;$(SolutionDir)\src\third_party\;$(SolutionDir)\src\third_party\libcnary\include\;$(SolutionDir)\src\third_party\vendors\include\;$(SolutionDir)\src\third_party\libxml2\include\;$(SolutionDir)\src\third_party\libplist\include\;$(SolutionDir)\src\third_party\libiconv\include\;$(SolutionDir)\src\third_party\;$(SolutionDir)\src\third_party\libcnary\include\;$(SolutionDir)\src\third_party\vendors\include\;$(SolutionDir)\src\third_party\libxml2\include\;$(SolutionDir)\src\third_party\libplist\include\;$(SolutionDir)\src\third_party\libiconv\include\;%(AdditionalIncludeDirectories);$(SolutionDir)\src\third_party\googleurl\;$(SolutionDir)\src\third_party\jsoncpp\include\;$(SolutionDir)\src\third_party\WebKitSupportLibrary\win\include\;$(SolutionDir)\src\third_party\zlib\include\</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ImportLibrary>$(SolutionDir)\lib\$(TargetName).lib</ImportLibrary>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+      <AdditionalDependencies>
+      </AdditionalDependencies>
+      <IgnoreAllDefaultLibraries>
+      </IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;APPSTORE_CORE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SolutionDir)\src\;$(SolutionDir)\src\third_party\;$(SolutionDir)\src\third_party\libcnary\include\;$(SolutionDir)\src\third_party\vendors\include\;$(SolutionDir)\src\third_party\libxml2\include\;$(SolutionDir)\src\third_party\libplist\include\;$(SolutionDir)\src\third_party\libiconv\include\;$(SolutionDir)\src\third_party;;$(SolutionDir)\src\third_party\googleurl\;$(SolutionDir)\src\third_party\jsoncpp\include\</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ImportLibrary>$(SolutionDir)\lib\$(TargetName).lib</ImportLibrary>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;APPSTORE_CORE_EXPORTS;XP_CONSOLE_FLAG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SolutionDir)\src\;$(SolutionDir)\src\third_party\;$(SolutionDir)\src\third_party\libcnary\include\;$(SolutionDir)\src\third_party\vendors\include\;$(SolutionDir)\src\third_party\libxml2\include\;$(SolutionDir)\src\third_party\libplist\include\;$(SolutionDir)\src\third_party\libiconv\include\;$(SolutionDir)\src\third_party;;$(SolutionDir)\src\third_party\googleurl\;$(SolutionDir)\src\third_party\jsoncpp\include\;$(SolutionDir)\src\third_party\WebKitSupportLibrary\win\include\;$(SolutionDir)\src\third_party\zlib\include\</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <ImportLibrary>$(SolutionDir)\lib\$(TargetName).lib</ImportLibrary>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;APPSTORE_CORE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(SolutionDir)\src\;$(SolutionDir)\src\third_party\;$(SolutionDir)\src\third_party\libcnary\include\;$(SolutionDir)\src\third_party\vendors\include\;$(SolutionDir)\src\third_party\libxml2\include\;$(SolutionDir)\src\third_party\libplist\include\;$(SolutionDir)\src\third_party\libiconv\include\;$(SolutionDir)\src\third_party;;$(SolutionDir)\src\third_party\googleurl\;$(SolutionDir)\src\third_party\jsoncpp\include\</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <ImportLibrary>$(SolutionDir)\lib\$(TargetName).lib</ImportLibrary>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\appstore_aso\policy_search_aso.h" />
+    <ClInclude Include="..\third_party\cookies\cookie_constants.h" />
+    <ClInclude Include="..\third_party\cookies\cookie_options.h" />
+    <ClInclude Include="..\third_party\cookies\parsed_cookie.h" />
+    <ClInclude Include="..\third_party\glog\basictypes.h" />
+    <ClInclude Include="..\third_party\glog\logging.h" />
+    <ClInclude Include="..\third_party\glog\scoped_ptr.h" />
+    <ClInclude Include="..\third_party\openssl\aes.h" />
+    <ClInclude Include="..\third_party\openssl\asn1.h" />
+    <ClInclude Include="..\third_party\openssl\asn1t.h" />
+    <ClInclude Include="..\third_party\openssl\asn1_mac.h" />
+    <ClInclude Include="..\third_party\openssl\bio.h" />
+    <ClInclude Include="..\third_party\openssl\blowfish.h" />
+    <ClInclude Include="..\third_party\openssl\bn.h" />
+    <ClInclude Include="..\third_party\openssl\buffer.h" />
+    <ClInclude Include="..\third_party\openssl\camellia.h" />
+    <ClInclude Include="..\third_party\openssl\cast.h" />
+    <ClInclude Include="..\third_party\openssl\cmac.h" />
+    <ClInclude Include="..\third_party\openssl\cms.h" />
+    <ClInclude Include="..\third_party\openssl\comp.h" />
+    <ClInclude Include="..\third_party\openssl\conf.h" />
+    <ClInclude Include="..\third_party\openssl\conf_api.h" />
+    <ClInclude Include="..\third_party\openssl\crypto.h" />
+    <ClInclude Include="..\third_party\openssl\des.h" />
+    <ClInclude Include="..\third_party\openssl\des_old.h" />
+    <ClInclude Include="..\third_party\openssl\dh.h" />
+    <ClInclude Include="..\third_party\openssl\dsa.h" />
+    <ClInclude Include="..\third_party\openssl\dso.h" />
+    <ClInclude Include="..\third_party\openssl\dtls1.h" />
+    <ClInclude Include="..\third_party\openssl\ebcdic.h" />
+    <ClInclude Include="..\third_party\openssl\ec.h" />
+    <ClInclude Include="..\third_party\openssl\ecdh.h" />
+    <ClInclude Include="..\third_party\openssl\ecdsa.h" />
+    <ClInclude Include="..\third_party\openssl\engine.h" />
+    <ClInclude Include="..\third_party\openssl\err.h" />
+    <ClInclude Include="..\third_party\openssl\evp.h" />
+    <ClInclude Include="..\third_party\openssl\e_os2.h" />
+    <ClInclude Include="..\third_party\openssl\hmac.h" />
+    <ClInclude Include="..\third_party\openssl\idea.h" />
+    <ClInclude Include="..\third_party\openssl\krb5_asn.h" />
+    <ClInclude Include="..\third_party\openssl\kssl.h" />
+    <ClInclude Include="..\third_party\openssl\lhash.h" />
+    <ClInclude Include="..\third_party\openssl\md4.h" />
+    <ClInclude Include="..\third_party\openssl\md5.h" />
+    <ClInclude Include="..\third_party\openssl\mdc2.h" />
+    <ClInclude Include="..\third_party\openssl\modes.h" />
+    <ClInclude Include="..\third_party\openssl\objects.h" />
+    <ClInclude Include="..\third_party\openssl\obj_mac.h" />
+    <ClInclude Include="..\third_party\openssl\ocsp.h" />
+    <ClInclude Include="..\third_party\openssl\opensslconf.h" />
+    <ClInclude Include="..\third_party\openssl\opensslv.h" />
+    <ClInclude Include="..\third_party\openssl\ossl_typ.h" />
+    <ClInclude Include="..\third_party\openssl\pem.h" />
+    <ClInclude Include="..\third_party\openssl\pem2.h" />
+    <ClInclude Include="..\third_party\openssl\pkcs12.h" />
+    <ClInclude Include="..\third_party\openssl\pkcs7.h" />
+    <ClInclude Include="..\third_party\openssl\pqueue.h" />
+    <ClInclude Include="..\third_party\openssl\rand.h" />
+    <ClInclude Include="..\third_party\openssl\rc2.h" />
+    <ClInclude Include="..\third_party\openssl\rc4.h" />
+    <ClInclude Include="..\third_party\openssl\ripemd.h" />
+    <ClInclude Include="..\third_party\openssl\rsa.h" />
+    <ClInclude Include="..\third_party\openssl\safestack.h" />
+    <ClInclude Include="..\third_party\openssl\seed.h" />
+    <ClInclude Include="..\third_party\openssl\sha.h" />
+    <ClInclude Include="..\third_party\openssl\srp.h" />
+    <ClInclude Include="..\third_party\openssl\srtp.h" />
+    <ClInclude Include="..\third_party\openssl\ssl.h" />
+    <ClInclude Include="..\third_party\openssl\ssl2.h" />
+    <ClInclude Include="..\third_party\openssl\ssl23.h" />
+    <ClInclude Include="..\third_party\openssl\ssl3.h" />
+    <ClInclude Include="..\third_party\openssl\stack.h" />
+    <ClInclude Include="..\third_party\openssl\symhacks.h" />
+    <ClInclude Include="..\third_party\openssl\tls1.h" />
+    <ClInclude Include="..\third_party\openssl\ts.h" />
+    <ClInclude Include="..\third_party\openssl\txt_db.h" />
+    <ClInclude Include="..\third_party\openssl\ui.h" />
+    <ClInclude Include="..\third_party\openssl\ui_compat.h" />
+    <ClInclude Include="..\third_party\openssl\whrlpool.h" />
+    <ClInclude Include="..\third_party\openssl\x509.h" />
+    <ClInclude Include="..\third_party\openssl\x509v3.h" />
+    <ClInclude Include="..\third_party\openssl\x509_vfy.h" />
+    <ClInclude Include="..\win_itunes\ak_authentication.h" />
+    <ClInclude Include="..\win_itunes\anonymous_finish_provisioning.h" />
+    <ClInclude Include="..\win_itunes\app_page_detail.h" />
+    <ClInclude Include="..\win_itunes\authenticate_protocol.h" />
+    <ClInclude Include="..\win_itunes\authenticate_response.h" />
+    <ClInclude Include="..\win_itunes\base64.h" />
+    <ClInclude Include="..\win_itunes\family_info.h" />
+    <ClInclude Include="..\win_itunes\in_app_check_recurring_download_queue.h" />
+    <ClInclude Include="..\win_itunes\itunes_client_interface.h" />
+    <ClInclude Include="..\win_itunes\itunes_cookie_interface.h" />
+    <ClInclude Include="..\win_itunes\itunes_download_info.h" />
+    <ClInclude Include="..\win_itunes\itunes_https.h" />
+    <ClInclude Include="..\win_itunes\itunes_https_configure.h" />
+    <ClInclude Include="..\win_itunes\itunes_internal_interface.h" />
+    <ClInclude Include="..\win_itunes\itunes_module.h" />
+    <ClInclude Include="..\win_itunes\itunes_module_state.h" />
+    <ClInclude Include="..\win_itunes\itunes_native_interface.h" />
+    <ClInclude Include="..\win_itunes\itunes_structs.h" />
+    <ClInclude Include="..\win_itunes\itunes_support_os.h" />
+    <ClInclude Include="..\win_itunes\parsed_authenticate_cookie.h" />
+    <ClInclude Include="..\win_itunes\provide_payment.h" />
+    <ClInclude Include="..\win_itunes\provide_payment_address.h" />
+    <ClInclude Include="..\win_itunes\provide_payment_name.h" />
+    <ClInclude Include="..\win_itunes\purchase_protocol.h" />
+    <ClInclude Include="..\win_itunes\strings.h" />
+    <ClInclude Include="..\win_itunes\user_agent_make.h" />
+    <ClInclude Include="..\win_itunes\windows_hardware.h" />
+    <ClInclude Include="..\win_itunes\windows_version.h" />
+    <ClInclude Include="..\win_itunes\xp_ci.h" />
+    <ClInclude Include="..\win_itunes\xp_its_main.h" />
+    <ClInclude Include="appstore_core_main.h" />
+    <ClInclude Include="appstore_core_multi.h" />
+    <ClInclude Include="appstore_http_protocol.h" />
+    <ClInclude Include="basictypes.h" />
+    <ClInclude Include="dllexport.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\appstore_aso\policy_search_aso.cc" />
+    <ClCompile Include="..\third_party\cookies\cookie_constants.cc" />
+    <ClCompile Include="..\third_party\cookies\parsed_cookie.cc" />
+    <ClCompile Include="..\third_party\glog\logging.cc" />
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_reader.cpp" />
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_value.cpp" />
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_writer.cpp" />
+    <ClCompile Include="..\win_itunes\ak_authentication.cc" />
+    <ClCompile Include="..\win_itunes\anonymous_finish_provisioning.cc" />
+    <ClCompile Include="..\win_itunes\app_page_detail.cc" />
+    <ClCompile Include="..\win_itunes\authenticate_protocol.cc" />
+    <ClCompile Include="..\win_itunes\authenticate_response.cc" />
+    <ClCompile Include="..\win_itunes\base64.cc" />
+    <ClCompile Include="..\win_itunes\family_info.cc" />
+    <ClCompile Include="..\win_itunes\in_app_check_recurring_download_queue.cc" />
+    <ClCompile Include="..\win_itunes\itunes_client_interface.cc" />
+    <ClCompile Include="..\win_itunes\itunes_cookie_interface.cc" />
+    <ClCompile Include="..\win_itunes\itunes_download_info.cc" />
+    <ClCompile Include="..\win_itunes\itunes_https.cc" />
+    <ClCompile Include="..\win_itunes\itunes_https_configure.cc" />
+    <ClCompile Include="..\win_itunes\itunes_module.cc" />
+    <ClCompile Include="..\win_itunes\itunes_module_state.cc" />
+    <ClCompile Include="..\win_itunes\itunes_native_interface.cc" />
+    <ClCompile Include="..\win_itunes\provide_payment.cc" />
+    <ClCompile Include="..\win_itunes\provide_payment_address.cc" />
+    <ClCompile Include="..\win_itunes\provide_payment_name.cc" />
+    <ClCompile Include="..\win_itunes\purchase_protocol.cc" />
+    <ClCompile Include="..\win_itunes\strings.cc" />
+    <ClCompile Include="..\win_itunes\user_agent_make.cc" />
+    <ClCompile Include="..\win_itunes\windows_hardware.cc" />
+    <ClCompile Include="..\win_itunes\windows_version.cc" />
+    <ClCompile Include="..\win_itunes\xp_ci.cc" />
+    <ClCompile Include="..\win_itunes\xp_its_main.cc" />
+    <ClCompile Include="appstore_core_main.cc" />
+    <ClCompile Include="appstore_core_multi.cc" />
+    <ClCompile Include="appstore_http_protocol.cc" />
+    <ClCompile Include="dllmain.cc">
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</CompileAsManaged>
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+      </PrecompiledHeader>
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</CompileAsManaged>
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+      </PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="..\..\packages\Python27.2.7.6\build\python27.targets" Condition="Exists('..\..\packages\Python27.2.7.6\build\python27.targets')" />
+    <Import Project="..\..\packages\asio.1.10.6\build\native\asio.targets" Condition="Exists('..\..\packages\asio.1.10.6\build\native\asio.targets')" />
+  </ImportGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\Python27.2.7.6\build\python27.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Python27.2.7.6\build\python27.targets'))" />
+    <Error Condition="!Exists('..\..\packages\asio.1.10.6\build\native\asio.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\asio.1.10.6\build\native\asio.targets'))" />
+  </Target>
+</Project>

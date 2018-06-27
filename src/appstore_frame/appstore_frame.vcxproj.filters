@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{2ac8128f-f074-437a-8c8a-0697f6fc800f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\appstore_tester">
+      <UniqueIdentifier>{0f1991da-f6b9-4ba3-bb18-2096269371c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\third_party">
+      <UniqueIdentifier>{ab5228ce-54b6-46d2-824e-c578ab4d26bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\third_party\glog">
+      <UniqueIdentifier>{9cdba4e4-a0e5-49c3-aa38-6d9e225fdece}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\appstore_frame">
+      <UniqueIdentifier>{4333342d-4b7a-48d2-9f99-b79cf1bd7440}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\appstore_worker">
+      <UniqueIdentifier>{fdb45966-ce3e-496b-9daa-273a32d6fc86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\appstore">
+      <UniqueIdentifier>{ea296daa-935d-4405-a6a8-1ebb77d58ccd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\appstore_pwd_chacker">
+      <UniqueIdentifier>{eb4daf17-708b-467b-a61f-05bf8bd2737c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="appstore_tester\IniFile.h">
+      <Filter>src\appstore_tester</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_tester\tstring.h">
+      <Filter>src\appstore_tester</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_tester\appstore_tester.h">
+      <Filter>src\appstore_tester</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\basictypes.h">
+      <Filter>src\third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\logging.h">
+      <Filter>src\third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\scoped_ptr.h">
+      <Filter>src\third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_frame.h">
+      <Filter>src\appstore_frame</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>src\appstore_frame</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>src\appstore_frame</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_worker\appstore_worker.h">
+      <Filter>src\appstore_worker</Filter>
+    </ClInclude>
+    <ClInclude Include="multi_process_arch.h">
+      <Filter>src\appstore_frame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\appstore\ip_management.h">
+      <Filter>src\appstore</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_pwd_chacker\targetver.h">
+      <Filter>src\appstore_pwd_chacker</Filter>
+    </ClInclude>
+    <ClInclude Include="appstore_pwd_chacker\appstore_pwd_chacker.h">
+      <Filter>src\appstore_pwd_chacker</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="appstore_tester\appstore_tester.cpp">
+      <Filter>src\appstore_tester</Filter>
+    </ClCompile>
+    <ClCompile Include="appstore_tester\IniFile.cpp">
+      <Filter>src\appstore_tester</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\glog\logging.cc">
+      <Filter>src\third_party\glog</Filter>
+    </ClCompile>
+    <ClCompile Include="appstore_frame.cpp">
+      <Filter>src\appstore_frame</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>src\appstore_frame</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>src\appstore_frame</Filter>
+    </ClCompile>
+    <ClCompile Include="appstore_worker\appstore_worker.cpp">
+      <Filter>src\appstore_worker</Filter>
+    </ClCompile>
+    <ClCompile Include="multi_process_arch.cc">
+      <Filter>src\appstore_frame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\appstore\ip_management.cc">
+      <Filter>src\appstore</Filter>
+    </ClCompile>
+    <ClCompile Include="appstore_pwd_chacker\appstore_pwd_chacker.cc">
+      <Filter>src\appstore_pwd_chacker</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

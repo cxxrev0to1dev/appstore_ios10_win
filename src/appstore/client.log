@@ -1,0 +1,621 @@
+[0606/153259:INFO:appstore.cc(183)] URL:https://itunes.apple.com/cn/app/yong-qian-bao/id1042182109?mt=8
+[0606/153259:INFO:appstore.cc(332)] 预置购买成功数量:1000-关键字:%E5%80%9F%E9%92%B1-AppId:1042182109-行为过滤开关(ON:OFF)OFF
+[0606/153538:INFO:appstore.cc(183)] URL:https://itunes.apple.com/cn/app/yong-qian-bao/id1042182109?mt=8
+[0606/153538:INFO:appstore.cc(332)] 预置购买成功数量:1000-关键字:%E8%AE%B0%E5%BD%95-AppId:1042182109-行为过滤开关(ON:OFF)OFF
+[0606/153658:INFO:appstore.cc(179)] URL:https://itunes.apple.com/cn/app/yong-qian-bao/id1042182109?mt=8
+[0606/153658:INFO:appstore.cc(328)] 预置购买成功数量:1000-关键字:%E5%80%9F%E9%92%B1-AppId:1042182109-行为过滤开关(ON:OFF)ON
+[0606/154132:INFO:appstore.cc(179)] URL:https://itunes.apple.com/cn/app/yong-qian-bao/id1042182109?mt=8
+[0606/154132:INFO:appstore.cc(328)] 预置购买成功数量:1000-关键字:%E5%80%9F%E9%92%B1-AppId:1042182109-行为过滤开关(ON:OFF)ON
+[0606/154139:INFO:appstore.cc(334)] start_time:21140
+[0606/154217:WARNING:appstore.cc(387)] APPStatus::Unknown:zhangbingju53@163.com
+[0606/154217:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/154217:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/154217:INFO:appstore.cc(392)] end_time:(21.14 seconds)
+[0606/154217:INFO:appstore.cc(334)] start_time:59221
+[0606/155106:INFO:appstore.cc(179)] URL:https://itunes.apple.com/cn/app/yong-qian-bao/id1042182109?mt=8
+[0606/155106:INFO:appstore.cc(328)] 预置购买成功数量:1000-关键字:%E5%80%9F%E9%92%B1-AppId:1042182109-行为过滤开关(ON:OFF)OFF
+[0606/155112:INFO:appstore.cc(334)] start_time:51196
+[0606/155135:WARNING:appstore.cc(387)] APPStatus::Unknown:vkads731@163.com
+[0606/155135:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155135:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155135:INFO:appstore.cc(392)] end_time:(51.196 seconds)
+[0606/155135:INFO:appstore.cc(334)] start_time:73408
+[0606/155205:WARNING:appstore.cc(387)] APPStatus::Unknown:zhasuanpl0781@163.com
+[0606/155205:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155205:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155205:INFO:appstore.cc(392)] end_time:(73.408 seconds)
+[0606/155205:INFO:appstore.cc(334)] start_time:103956
+[0606/155234:WARNING:appstore.cc(387)] APPStatus::Unknown:zihangjiufei9@163.com
+[0606/155234:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155234:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155234:INFO:appstore.cc(392)] end_time:(103.956 seconds)
+[0606/155234:INFO:appstore.cc(334)] start_time:132489
+[0606/155252:WARNING:appstore.cc(387)] APPStatus::Unknown:yeguanlaicao694@163.com
+[0606/155252:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155252:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155252:INFO:appstore.cc(392)] end_time:(132.489 seconds)
+[0606/155252:INFO:appstore.cc(334)] start_time:150697
+[0606/155315:WARNING:appstore.cc(387)] APPStatus::Unknown:fengtuoyao11213@163.com
+[0606/155315:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155315:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155315:INFO:appstore.cc(392)] end_time:(150.697 seconds)
+[0606/155315:INFO:appstore.cc(334)] start_time:174147
+[0606/155353:WARNING:appstore.cc(387)] APPStatus::Unknown:ytrwe389@163.com
+[0606/155353:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155353:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155353:INFO:appstore.cc(392)] end_time:(174.147 seconds)
+[0606/155353:INFO:appstore.cc(334)] start_time:211382
+[0606/155419:WARNING:appstore.cc(387)] APPStatus::Unknown:nao20736391611524@163.com
+[0606/155419:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155419:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155419:INFO:appstore.cc(392)] end_time:(211.382 seconds)
+[0606/155419:INFO:appstore.cc(334)] start_time:237932
+[0606/155445:WARNING:appstore.cc(387)] APPStatus::Unknown:meigua867@163.com
+[0606/155445:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155445:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155445:INFO:appstore.cc(392)] end_time:(237.932 seconds)
+[0606/155445:INFO:appstore.cc(334)] start_time:264058
+[0606/155613:INFO:appstore.cc(179)] URL:https://itunes.apple.com/cn/app/yong-qian-bao/id1042182109?mt=8
+[0606/155613:INFO:appstore.cc(328)] 预置购买成功数量:1000-关键字:%E5%80%9F%E9%92%B1-AppId:1042182109-行为过滤开关(ON:OFF)ON
+[0606/155618:INFO:appstore.cc(334)] start_time:44492
+[0606/155651:WARNING:appstore.cc(387)] APPStatus::Unknown:timon2004@163.com
+[0606/155651:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155651:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155651:INFO:appstore.cc(392)] end_time:(44.492 seconds)
+[0606/155651:INFO:appstore.cc(334)] start_time:77228
+[0606/155716:WARNING:appstore.cc(387)] APPStatus::Unknown:weishiyipan9359@163.com
+[0606/155716:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155716:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155716:INFO:appstore.cc(392)] end_time:(77.228 seconds)
+[0606/155716:INFO:appstore.cc(334)] start_time:102504
+[0606/155739:WARNING:appstore.cc(387)] APPStatus::Unknown:huanglujing7@163.com
+[0606/155739:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155739:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155739:INFO:appstore.cc(392)] end_time:(102.504 seconds)
+[0606/155739:INFO:appstore.cc(334)] start_time:125597
+[0606/155804:WARNING:appstore.cc(387)] APPStatus::Unknown:wwwwdengbing03@163.com
+[0606/155804:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155804:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155804:INFO:appstore.cc(392)] end_time:(125.597 seconds)
+[0606/155804:INFO:appstore.cc(334)] start_time:150123
+[0606/155840:WARNING:appstore.cc(387)] APPStatus::Unknown:xh675kaiguanb1@163.com
+[0606/155840:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155840:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155840:INFO:appstore.cc(392)] end_time:(150.123 seconds)
+[0606/155840:INFO:appstore.cc(334)] start_time:186419
+[0606/155909:WARNING:appstore.cc(383)] APPStatus::AccountLock:tq01qz0@163.com
+[0606/155909:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0606/155909:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0606/155909:INFO:appstore.cc(392)] end_time:(186.419 seconds)
+[0606/155909:INFO:appstore.cc(334)] start_time:214766
+[0606/160433:INFO:appstore.cc(179)] URL:https://itunes.apple.com/cn/app/yong-qian-bao/id1042182109?mt=8
+[0606/160433:INFO:appstore.cc(328)] 预置购买成功数量:1000-关键字:%E5%80%9F%E9%92%B1-AppId:1042182109-行为过滤开关(ON:OFF)ON
+[0606/160440:INFO:appstore.cc(334)] start_time:139408
+[0606/160941:INFO:appstore.cc(179)] URL:https://itunes.apple.com/cn/app/yong-qian-bao/id1042182109?mt=8
+[0606/160941:INFO:appstore.cc(328)] 预置购买成功数量:1000-关键字:%E5%80%9F%E9%92%B1-AppId:1042182109-行为过滤开关(ON:OFF)ON
+[0606/160946:INFO:appstore.cc(334)] start_time:62780
+[0607/151753:INFO:appstore.cc(124)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/151753:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E5%A3%81%E7%B4%99-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/151756:INFO:appstore.cc(334)] start_time:15209
+[0607/152145:INFO:appstore.cc(124)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/152145:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E5%A3%81%E7%B4%99-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/152148:INFO:appstore.cc(334)] start_time:71505
+[0607/152322:ERROR:appstore.cc(375)] APPStatus::PurchaseFailed:xiaohuiyinglq75173@163.com
+[0607/152322:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/152322:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/152322:INFO:appstore.cc(392)] end_time:(71.505 seconds)
+[0607/152322:INFO:appstore.cc(334)] start_time:165618
+[0607/152451:ERROR:appstore.cc(375)] APPStatus::PurchaseFailed:buhuang69741532@163.com
+[0607/152451:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/152451:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/152451:INFO:appstore.cc(392)] end_time:(165.618 seconds)
+[0607/152451:INFO:appstore.cc(334)] start_time:253799
+[0607/152851:INFO:appstore.cc(124)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/152851:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E5%A3%81%E7%B4%99-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/152854:INFO:appstore.cc(334)] start_time:22829
+[0607/153028:ERROR:appstore.cc(375)] APPStatus::PurchaseFailed:xinbi525956@163.com
+[0607/153028:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/153028:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/153028:INFO:appstore.cc(392)] end_time:(22.829 seconds)
+[0607/153028:INFO:appstore.cc(334)] start_time:117071
+[0607/154437:INFO:appstore.cc(124)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/154437:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E5%A3%81%E7%B4%99-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/154441:INFO:appstore.cc(334)] start_time:10932
+[0607/154505:WARNING:appstore.cc(387)] APPStatus::Unknown:gwrco67@163.com
+[0607/154505:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/154505:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/154505:INFO:appstore.cc(392)] end_time:(10.932 seconds)
+[0607/154505:INFO:appstore.cc(334)] start_time:35753
+[0607/155148:INFO:appstore.cc(124)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/155148:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E5%A3%81%E7%B4%99-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/155151:INFO:appstore.cc(334)] start_time:13465
+[0607/155330:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/155330:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/155333:INFO:appstore.cc(334)] start_time:9013
+[0607/155451:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/155451:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/155454:INFO:appstore.cc(334)] start_time:10417
+[0607/155458:WARNING:appstore.cc(383)] APPStatus::AccountLock:jiuzhunye@163.com
+[0607/155458:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/155458:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/155458:INFO:appstore.cc(392)] end_time:(10.417 seconds)
+[0607/155458:INFO:appstore.cc(334)] start_time:13973
+[0607/155647:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/155647:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/155651:INFO:appstore.cc(334)] start_time:18689
+[0607/160454:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/160454:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/160457:INFO:appstore.cc(334)] start_time:11316
+[0607/160633:ERROR:appstore.cc(375)] APPStatus::PurchaseFailed:huancaitangiyu@163.com
+[0607/160633:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/160633:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/160633:INFO:appstore.cc(392)] end_time:(11.316 seconds)
+[0607/160633:INFO:appstore.cc(334)] start_time:107200
+[0607/160801:ERROR:appstore.cc(375)] APPStatus::PurchaseFailed:fengchuanjiaoha21@163.com
+[0607/160801:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/160801:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/160801:INFO:appstore.cc(392)] end_time:(107.2 seconds)
+[0607/160801:INFO:appstore.cc(334)] start_time:195332
+[0607/160931:ERROR:appstore.cc(375)] APPStatus::PurchaseFailed:youchou9335@163.com
+[0607/160931:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/160931:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/160931:INFO:appstore.cc(392)] end_time:(195.332 seconds)
+[0607/160931:INFO:appstore.cc(334)] start_time:285111
+[0607/163707:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/163707:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/163710:INFO:appstore.cc(334)] start_time:12265
+[0607/170140:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/170140:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/170144:INFO:appstore.cc(334)] start_time:129861
+[0607/170851:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/170851:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/170854:INFO:appstore.cc(334)] start_time:86988
+[0607/171958:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/171958:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/172001:INFO:appstore.cc(334)] start_time:25465
+[0607/173258:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/173258:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/173301:INFO:appstore.cc(334)] start_time:11591
+[0607/174042:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/174042:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/174045:INFO:appstore.cc(334)] start_time:10329
+[0607/174334:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/174334:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/174337:INFO:appstore.cc(334)] start_time:11617
+[0607/174546:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/174546:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/174549:INFO:appstore.cc(334)] start_time:11545
+[0607/174940:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/174940:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/174943:INFO:appstore.cc(334)] start_time:9588
+[0607/175124:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/175124:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/175127:INFO:appstore.cc(334)] start_time:10690
+[0607/175642:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/175642:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/175645:INFO:appstore.cc(334)] start_time:10328
+[0607/175907:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/175907:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/175911:INFO:appstore.cc(334)] start_time:41198
+[0607/180059:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/180059:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/180102:INFO:appstore.cc(334)] start_time:11029
+[0607/181743:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/181743:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/181747:INFO:appstore.cc(334)] start_time:40215
+[0607/183204:INFO:appstore.cc(328)] 预置购买成功数量:1000-关键字:%E8%B4%AA%E5%90%83%E8%9B%87-AppId:1073833023-行为过滤开关(ON:OFF)OFF
+[0607/183211:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/183211:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/183215:INFO:appstore.cc(334)] start_time:8890
+[0607/184036:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/184036:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/184040:INFO:appstore.cc(334)] start_time:21011
+[0607/184340:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/184340:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/184343:INFO:appstore.cc(334)] start_time:31629
+[0607/184406:WARNING:appstore.cc(387)] APPStatus::Unknown:weishiyipan9359@163.com
+[0607/184406:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/184406:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/184406:INFO:appstore.cc(392)] end_time:(31.629 seconds)
+[0607/184406:INFO:appstore.cc(334)] start_time:53651
+[0607/184427:WARNING:appstore.cc(387)] APPStatus::Unknown:fangshiye07381@163.com
+[0607/184427:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/184427:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/184427:INFO:appstore.cc(392)] end_time:(53.651 seconds)
+[0607/184427:INFO:appstore.cc(334)] start_time:74797
+[0607/184448:WARNING:appstore.cc(387)] APPStatus::Unknown:yi41484498@163.com
+[0607/184448:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/184448:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/184448:INFO:appstore.cc(392)] end_time:(74.797 seconds)
+[0607/184448:INFO:appstore.cc(334)] start_time:95891
+[0607/184509:WARNING:appstore.cc(387)] APPStatus::Unknown:meigua867@163.com
+[0607/184509:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/184509:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/184509:INFO:appstore.cc(392)] end_time:(95.891 seconds)
+[0607/184509:INFO:appstore.cc(334)] start_time:116976
+[0607/184530:WARNING:appstore.cc(387)] APPStatus::Unknown:xinbi525956@163.com
+[0607/184530:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/184530:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/184530:INFO:appstore.cc(392)] end_time:(116.976 seconds)
+[0607/184530:INFO:appstore.cc(334)] start_time:138044
+[0607/184907:ERROR:appstore.cc(375)] APPStatus::PurchaseFailed:nao20736391611524@163.com
+[0607/184907:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/184907:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/184907:INFO:appstore.cc(392)] end_time:(138.044 seconds)
+[0607/184907:INFO:appstore.cc(334)] start_time:355000
+[0607/184928:WARNING:appstore.cc(387)] APPStatus::Unknown:xinkuhcv@163.com
+[0607/184928:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/184928:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/184928:INFO:appstore.cc(392)] end_time:(355 seconds)
+[0607/184928:INFO:appstore.cc(334)] start_time:376131
+[0607/184949:WARNING:appstore.cc(387)] APPStatus::Unknown:wwwjiaasd3@163.com
+[0607/184949:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/184949:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/184949:INFO:appstore.cc(392)] end_time:(376.131 seconds)
+[0607/184949:INFO:appstore.cc(334)] start_time:397205
+[0607/185122:ERROR:appstore.cc(375)] APPStatus::PurchaseFailed:wang137852845@163.com
+[0607/185122:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/185122:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/185122:INFO:appstore.cc(392)] end_time:(397.205 seconds)
+[0607/185122:INFO:appstore.cc(334)] start_time:490415
+[0607/190425:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/190425:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/190429:INFO:appstore.cc(334)] start_time:659284
+[0607/190452:WARNING:appstore.cc(387)] APPStatus::Unknown:shun124158273982@163.com
+[0607/190452:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/190452:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/190452:INFO:appstore.cc(392)] end_time:(659.284 seconds)
+[0607/190452:INFO:appstore.cc(334)] start_time:682867
+[0607/190454:WARNING:appstore.cc(383)] APPStatus::AccountLock:huanglujing7@163.com
+[0607/190454:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/190454:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/190454:INFO:appstore.cc(392)] end_time:(682.867 seconds)
+[0607/190454:INFO:appstore.cc(334)] start_time:685111
+[0607/190516:WARNING:appstore.cc(387)] APPStatus::Unknown:natundizhong98@163.com
+[0607/190516:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/190516:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/190516:INFO:appstore.cc(392)] end_time:(685.111 seconds)
+[0607/190516:INFO:appstore.cc(334)] start_time:707077
+[0607/190948:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/190948:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/190951:INFO:appstore.cc(334)] start_time:12338
+[0607/190954:WARNING:appstore.cc(383)] APPStatus::AccountLock:pantaozi489266@163.com
+[0607/190954:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/190954:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/190954:INFO:appstore.cc(392)] end_time:(12.338 seconds)
+[0607/190954:INFO:appstore.cc(334)] start_time:15667
+[0607/190956:WARNING:appstore.cc(383)] APPStatus::AccountLock:ximenjuyan0qiq@163.com
+[0607/190956:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/190956:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/190956:INFO:appstore.cc(392)] end_time:(15.667 seconds)
+[0607/190956:INFO:appstore.cc(334)] start_time:17484
+[0607/191559:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/191559:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/191602:INFO:appstore.cc(334)] start_time:14464
+[0607/192217:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/192217:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/192220:INFO:appstore.cc(334)] start_time:13916
+[0607/192558:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/192558:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/192601:INFO:appstore.cc(334)] start_time:15077
+[0607/193004:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/193004:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/193007:INFO:appstore.cc(334)] start_time:11107
+[0607/193029:WARNING:appstore.cc(387)] APPStatus::Unknown:yi41484498@163.com
+[0607/193029:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/193029:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/193029:INFO:appstore.cc(392)] end_time:(11.107 seconds)
+[0607/193029:INFO:appstore.cc(334)] start_time:32693
+[0607/193050:WARNING:appstore.cc(387)] APPStatus::Unknown:jiu9587290@163.com
+[0607/193050:INFO:appstore.cc(390)] SearchTotalCount:-842150451
+[0607/193050:INFO:appstore.cc(391)] SearchIdRanking:-842150451
+[0607/193050:INFO:appstore.cc(392)] end_time:(32.693 seconds)
+[0607/193050:INFO:appstore.cc(334)] start_time:53897
+[0607/193735:INFO:appstore.cc(132)] URL:https://itunes.apple.com/cn/app/ji-jian-bi-zhi/id1035192537?mt=8
+[0607/193735:INFO:appstore.cc(328)] 预置购买成功数量:100-关键字:%E6%9E%81%E7%AE%80-AppId:1035192537-行为过滤开关(ON:OFF)OFF
+[0607/193738:INFO:appstore.cc(334)] start_time:13217
+[0608/103809:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0608/103809:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%83%A1%E6%A4%92%E8%93%93%E8%93%93-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0608/103812:INFO:appstore.cc(351)] start_time:13421
+[0608/104412:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0608/104412:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%83%A1%E6%A4%92%E8%93%93%E8%93%93-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0608/104415:INFO:appstore.cc(351)] start_time:10183
+[0608/104506:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0608/104506:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%83%A1%E6%A4%92%E8%93%93%E8%93%93-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0608/104509:INFO:appstore.cc(351)] start_time:9941
+[0608/105235:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0608/105235:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%83%A1%E6%A4%92%E8%93%93%E8%93%93-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0608/105239:INFO:appstore.cc(351)] start_time:32783
+[0608/105610:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0608/105610:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%83%A1%E6%A4%92%E8%93%93%E8%93%93-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0608/105613:INFO:appstore.cc(351)] start_time:13786
+[0608/105638:WARNING:appstore.cc(405)] APPStatus::Unknown:zhuxingyulb3x@163.com
+[0608/105638:INFO:appstore.cc(408)] SearchTotalCount:-842150451
+[0608/105638:INFO:appstore.cc(409)] SearchIdRanking:-842150451
+[0608/105638:INFO:appstore.cc(410)] end_time:(13.786 seconds)
+[0608/105638:INFO:appstore.cc(351)] start_time:38624
+[0608/110020:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0608/110021:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%83%A1%E6%A4%92%E8%93%93%E8%93%93-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0608/110024:INFO:appstore.cc(351)] start_time:10721
+[0608/110125:WARNING:appstore.cc(405)] APPStatus::Unknown:zihangjiufei9@163.com
+[0608/110125:INFO:appstore.cc(408)] SearchTotalCount:-842150451
+[0608/110125:INFO:appstore.cc(409)] SearchIdRanking:-842150451
+[0608/110125:INFO:appstore.cc(410)] end_time:(10.721 seconds)
+[0608/110125:INFO:appstore.cc(351)] start_time:72355
+[0608/110147:WARNING:appstore.cc(405)] APPStatus::Unknown:luxuy05934@163.com
+[0608/110147:INFO:appstore.cc(408)] SearchTotalCount:-842150451
+[0608/110147:INFO:appstore.cc(409)] SearchIdRanking:-842150451
+[0608/110147:INFO:appstore.cc(410)] end_time:(72.355 seconds)
+[0608/110147:INFO:appstore.cc(351)] start_time:94009
+[0608/110734:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0608/110734:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%83%A1%E6%A4%92%E8%93%93%E8%93%93-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0608/110737:INFO:appstore.cc(351)] start_time:11091
+[0608/110855:WARNING:appstore.cc(405)] APPStatus::Unknown:songxi2385@163.com
+[0608/110855:INFO:appstore.cc(408)] SearchTotalCount:-842150451
+[0608/110855:INFO:appstore.cc(409)] SearchIdRanking:-842150451
+[0608/110855:INFO:appstore.cc(410)] end_time:(11.091 seconds)
+[0608/110855:INFO:appstore.cc(351)] start_time:88990
+[0608/111049:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0608/111049:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%83%A1%E6%A4%92%E8%93%93%E8%93%93-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0608/111052:INFO:appstore.cc(351)] start_time:12487
+[0608/111457:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0608/111457:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%83%A1%E6%A4%92%E8%93%93%E8%93%93-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0608/111500:INFO:appstore.cc(351)] start_time:9709
+[0608/111608:INFO:appstore.cc(389)] APPStatus::PurchaseOK:sww42030645828@163.com
+[0608/111608:INFO:appstore.cc(408)] SearchTotalCount:28
+[0608/111608:INFO:appstore.cc(409)] SearchIdRanking:24
+[0608/111608:INFO:appstore.cc(410)] end_time:(68.693 seconds)
+[0608/111608:INFO:appstore.cc(351)] start_time:78418
+[0608/111627:INFO:appstore.cc(389)] APPStatus::PurchaseOK:liheke3945036471@163.com
+[0608/111627:INFO:appstore.cc(408)] SearchTotalCount:28
+[0608/111627:INFO:appstore.cc(409)] SearchIdRanking:24
+[0608/111627:INFO:appstore.cc(410)] end_time:(18.841 seconds)
+[0608/111627:INFO:appstore.cc(351)] start_time:97259
+[0613/163103:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0613/163103:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0613/163106:INFO:appstore.cc(351)] start_time:14161
+[0613/163230:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0613/163230:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0613/163233:INFO:appstore.cc(351)] start_time:31254
+[0613/163437:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0613/163437:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0613/163440:INFO:appstore.cc(351)] start_time:8983
+[0613/195724:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0613/195724:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0613/195727:INFO:appstore.cc(351)] start_time:13437
+[0613/200046:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0613/200046:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0613/200049:INFO:appstore.cc(351)] start_time:15088
+[0613/200104:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:glszmsfihf@163.com
+[0613/200104:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200104:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200104:INFO:appstore.cc(410)] end_time:(15.088 seconds)
+[0613/200104:INFO:appstore.cc(351)] start_time:30858
+[0613/200122:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:jimeishang377@163.com
+[0613/200122:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200122:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200122:INFO:appstore.cc(410)] end_time:(30.858 seconds)
+[0613/200122:INFO:appstore.cc(351)] start_time:48676
+[0613/200130:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:vlafdg264@163.com
+[0613/200130:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200130:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200130:INFO:appstore.cc(410)] end_time:(48.676 seconds)
+[0613/200130:INFO:appstore.cc(351)] start_time:56695
+[0613/200139:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:fengchuanjiaoha21@163.com
+[0613/200139:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200139:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200139:INFO:appstore.cc(410)] end_time:(56.695 seconds)
+[0613/200139:INFO:appstore.cc(351)] start_time:65153
+[0613/200147:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:timon2004@163.com
+[0613/200147:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200147:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200147:INFO:appstore.cc(410)] end_time:(65.153 seconds)
+[0613/200147:INFO:appstore.cc(351)] start_time:73001
+[0613/200157:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:yanmumeiji3670@163.com
+[0613/200157:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200157:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200157:INFO:appstore.cc(410)] end_time:(73.001 seconds)
+[0613/200157:INFO:appstore.cc(351)] start_time:83299
+[0613/200207:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:qinba6228937808820@163.com
+[0613/200207:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200207:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200207:INFO:appstore.cc(410)] end_time:(83.299 seconds)
+[0613/200207:INFO:appstore.cc(351)] start_time:93161
+[0613/200214:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:rjbtwrsk@163.com
+[0613/200214:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200214:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200214:INFO:appstore.cc(410)] end_time:(93.161 seconds)
+[0613/200214:INFO:appstore.cc(351)] start_time:100602
+[0613/200224:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:yongshan2850831@163.com
+[0613/200224:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200224:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200224:INFO:appstore.cc(410)] end_time:(100.602 seconds)
+[0613/200224:INFO:appstore.cc(351)] start_time:110260
+[0613/200236:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:pingguafeipa741@163.com
+[0613/200236:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200236:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200236:INFO:appstore.cc(410)] end_time:(110.26 seconds)
+[0613/200236:INFO:appstore.cc(351)] start_time:122585
+[0613/200244:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:taosui831429@163.com
+[0613/200244:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200244:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200244:INFO:appstore.cc(410)] end_time:(122.585 seconds)
+[0613/200244:INFO:appstore.cc(351)] start_time:130479
+[0613/200302:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:yan9175163308@163.com
+[0613/200302:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200302:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200302:INFO:appstore.cc(410)] end_time:(130.479 seconds)
+[0613/200302:INFO:appstore.cc(351)] start_time:148671
+[0613/200317:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:zhangbingju53@163.com
+[0613/200317:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200317:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200317:INFO:appstore.cc(410)] end_time:(148.671 seconds)
+[0613/200317:INFO:appstore.cc(351)] start_time:163883
+[0613/200330:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:yituigan64048682@163.com
+[0613/200330:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200330:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200330:INFO:appstore.cc(410)] end_time:(163.883 seconds)
+[0613/200330:INFO:appstore.cc(351)] start_time:176488
+[0613/200342:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:tisan06906@163.com
+[0613/200342:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200342:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200342:INFO:appstore.cc(410)] end_time:(176.488 seconds)
+[0613/200342:INFO:appstore.cc(351)] start_time:187956
+[0613/200351:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:zongfa1111451563@163.com
+[0613/200351:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200351:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200351:INFO:appstore.cc(410)] end_time:(187.956 seconds)
+[0613/200351:INFO:appstore.cc(351)] start_time:197049
+[0613/200359:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:shun124158273982@163.com
+[0613/200359:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200359:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200359:INFO:appstore.cc(410)] end_time:(197.049 seconds)
+[0613/200359:INFO:appstore.cc(351)] start_time:205765
+[0613/200505:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0613/200505:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0613/200508:INFO:appstore.cc(351)] start_time:22449
+[0613/200523:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:daobaigua86@163.com
+[0613/200523:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200523:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200523:INFO:appstore.cc(410)] end_time:(22.449 seconds)
+[0613/200523:INFO:appstore.cc(351)] start_time:37160
+[0613/200532:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:glszmsfihf@163.com
+[0613/200532:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200532:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200532:INFO:appstore.cc(410)] end_time:(37.16 seconds)
+[0613/200532:INFO:appstore.cc(351)] start_time:46506
+[0613/200540:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:fangshiye07381@163.com
+[0613/200540:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200540:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200540:INFO:appstore.cc(410)] end_time:(46.506 seconds)
+[0613/200540:INFO:appstore.cc(351)] start_time:54532
+[0613/200549:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:langke3017@163.com
+[0613/200549:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200549:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200549:INFO:appstore.cc(410)] end_time:(54.532 seconds)
+[0613/200549:INFO:appstore.cc(351)] start_time:63555
+[0613/200558:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:lanlianzhisong7787@163.com
+[0613/200558:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200558:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200558:INFO:appstore.cc(410)] end_time:(63.555 seconds)
+[0613/200558:INFO:appstore.cc(351)] start_time:72266
+[0613/200624:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0613/200624:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0613/200627:INFO:appstore.cc(351)] start_time:11367
+[0613/200643:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:jiangvci63380@163.com
+[0613/200643:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200643:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200643:INFO:appstore.cc(410)] end_time:(11.367 seconds)
+[0613/200643:INFO:appstore.cc(351)] start_time:27588
+[0613/200654:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:luxuy05934@163.com
+[0613/200654:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200654:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200654:INFO:appstore.cc(410)] end_time:(27.588 seconds)
+[0613/200654:INFO:appstore.cc(351)] start_time:37808
+[0613/200705:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:baizhangfeitu59@163.com
+[0613/200705:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200705:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200705:INFO:appstore.cc(410)] end_time:(37.808 seconds)
+[0613/200705:INFO:appstore.cc(351)] start_time:49282
+[0613/200718:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:zi29104681@163.com
+[0613/200718:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200718:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200718:INFO:appstore.cc(410)] end_time:(49.282 seconds)
+[0613/200718:INFO:appstore.cc(351)] start_time:61720
+[0613/200727:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:jiazhangbenshi9@163.com
+[0613/200727:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200727:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200727:INFO:appstore.cc(410)] end_time:(61.72 seconds)
+[0613/200727:INFO:appstore.cc(351)] start_time:70989
+[0613/200740:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:gwrco67@163.com
+[0613/200740:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200740:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200740:INFO:appstore.cc(410)] end_time:(70.989 seconds)
+[0613/200740:INFO:appstore.cc(351)] start_time:84115
+[0613/200757:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:yongshi8272@163.com
+[0613/200757:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200757:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200757:INFO:appstore.cc(410)] end_time:(84.115 seconds)
+[0613/200757:INFO:appstore.cc(351)] start_time:100773
+[0613/200808:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:nao20736391611524@163.com
+[0613/200808:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200808:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200808:INFO:appstore.cc(410)] end_time:(100.773 seconds)
+[0613/200808:INFO:appstore.cc(351)] start_time:111667
+[0613/200817:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:shasukouqiao7@163.com
+[0613/200817:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200817:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200817:INFO:appstore.cc(410)] end_time:(111.667 seconds)
+[0613/200817:INFO:appstore.cc(351)] start_time:121344
+[0613/200827:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:kuanghuafang443@163.com
+[0613/200827:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200827:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200827:INFO:appstore.cc(410)] end_time:(121.344 seconds)
+[0613/200827:INFO:appstore.cc(351)] start_time:131018
+[0613/200842:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:chanceqt8@163.com
+[0613/200842:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200842:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200842:INFO:appstore.cc(410)] end_time:(131.018 seconds)
+[0613/200842:INFO:appstore.cc(351)] start_time:146210
+[0613/200856:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:wskpb67@163.com
+[0613/200856:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200856:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200856:INFO:appstore.cc(410)] end_time:(146.21 seconds)
+[0613/200856:INFO:appstore.cc(351)] start_time:160547
+[0613/200925:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:shamei646641777@163.com
+[0613/200925:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200925:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200925:INFO:appstore.cc(410)] end_time:(160.547 seconds)
+[0613/200925:INFO:appstore.cc(351)] start_time:189465
+[0613/200926:WARNING:appstore.cc(405)] APPStatus::Unknown:ji4264089508911@163.com
+[0613/200926:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200926:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200926:INFO:appstore.cc(410)] end_time:(189.465 seconds)
+[0613/200926:INFO:appstore.cc(351)] start_time:190451
+[0613/200943:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:tanshida9046@163.com
+[0613/200943:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/200943:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/200943:INFO:appstore.cc(410)] end_time:(190.451 seconds)
+[0613/200943:INFO:appstore.cc(351)] start_time:206769
+[0613/201003:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:yan9175163308@163.com
+[0613/201003:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/201003:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/201003:INFO:appstore.cc(410)] end_time:(206.769 seconds)
+[0613/201003:INFO:appstore.cc(351)] start_time:227570
+[0613/201018:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:fangshiye07381@163.com
+[0613/201018:INFO:appstore.cc(408)] SearchTotalCount:27
+[0613/201018:INFO:appstore.cc(409)] SearchIdRanking:-1
+[0613/201018:INFO:appstore.cc(410)] end_time:(227.57 seconds)
+[0613/201018:INFO:appstore.cc(351)] start_time:242233
+[0614/100644:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0614/100644:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E7%BA%A2%E7%83%A7%E8%82%89-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0614/100647:INFO:appstore.cc(351)] start_time:11486
+[0614/100948:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0614/100948:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0614/100951:INFO:appstore.cc(351)] start_time:18357
+[0614/101607:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0614/101607:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0614/101611:INFO:appstore.cc(351)] start_time:24114
+[0614/101707:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:diyunquecai17@163.com
+[0614/101707:INFO:appstore.cc(408)] SearchTotalCount:38
+[0614/101707:INFO:appstore.cc(409)] SearchIdRanking:36
+[0614/101707:INFO:appstore.cc(410)] end_time:(24.114 seconds)
+[0614/101707:INFO:appstore.cc(351)] start_time:80115
+[0614/101727:ERROR:appstore.cc(393)] APPStatus::PurchaseFailed:anniuli649@163.com
+[0614/101727:INFO:appstore.cc(408)] SearchTotalCount:38
+[0614/101727:INFO:appstore.cc(409)] SearchIdRanking:36
+[0614/101727:INFO:appstore.cc(410)] end_time:(80.115 seconds)
+[0614/101727:INFO:appstore.cc(351)] start_time:100942
+[0614/101836:INFO:appstore.cc(332)] URL:https://itunes.apple.com/cn/app/ai-zai-chu-fang/id1065435018?mt=8
+[0614/101836:INFO:appstore.cc(345)] 预置购买成功数量:1000-关键字:%E8%8F%A0%E8%8F%9C-AppId:1065435018-行为过滤开关(ON:OFF)OFF
+[0614/101839:INFO:appstore.cc(351)] start_time:10180
+[0614/101912:INFO:appstore.cc(389)] APPStatus::PurchaseOK:huaikangzhuo159@163.com
+[0614/101912:INFO:appstore.cc(408)] SearchTotalCount:38
+[0614/101912:INFO:appstore.cc(409)] SearchIdRanking:36
+[0614/101912:INFO:appstore.cc(410)] end_time:(32.889 seconds)
+[0614/101912:INFO:appstore.cc(351)] start_time:43072
+[0614/101939:INFO:appstore.cc(389)] APPStatus::PurchaseOK:pushanshu75712@163.com
+[0614/101939:INFO:appstore.cc(408)] SearchTotalCount:38
+[0614/101939:INFO:appstore.cc(409)] SearchIdRanking:36
+[0614/101939:INFO:appstore.cc(410)] end_time:(27.053 seconds)
+[0614/101939:INFO:appstore.cc(351)] start_time:70128

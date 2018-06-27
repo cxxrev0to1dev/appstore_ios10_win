@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="third_party">
+      <UniqueIdentifier>{0bd156c0-d232-44a1-ac09-cd8c647db32a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\glog">
+      <UniqueIdentifier>{a5ebbcf8-8b4f-4bd4-aeaf-df63ccf31a7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\jsoncpp">
+      <UniqueIdentifier>{610f486e-fb38-480c-90ff-a8e1fe110877}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{ae7ba353-3e1f-451d-b738-b23b98e20422}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\third_party\glog\basictypes.h">
+      <Filter>third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\logging.h">
+      <Filter>third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\glog\scoped_ptr.h">
+      <Filter>third_party\glog</Filter>
+    </ClInclude>
+    <ClInclude Include="dll_main.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="https.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="https_configure.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="basic_counter.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\third_party\glog\logging.cc">
+      <Filter>third_party\glog</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_reader.cpp">
+      <Filter>third_party\jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_value.cpp">
+      <Filter>third_party\jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\jsoncpp\src\lib_json\json_writer.cpp">
+      <Filter>third_party\jsoncpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dll_main.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="https.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="https_configure.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>
